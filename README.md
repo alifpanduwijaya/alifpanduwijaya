@@ -1,5 +1,7 @@
 #### 💫 About Me:
-Alif Pandu Wijaya<br>Aspiring Data Analyst<br><br>Foundation: A logical thinker with a Diploma in Management Informatics, providing a solid background in database fundamentals and information systems.<br><br>Current Focus: Actively transitioning into data analytics by mastering essential tools and technologies, including:<br><br>SQL for complex data querying and extraction.<br><br>Python (Pandas, Matplotlib, Seaborn) for data cleaning, analysis, and visualization.<br><br>Business Intelligence Tools (such as Tableau or Power BI) for creating insightful dashboards.<br><br>My Goal: To secure a challenging opportunity where I can apply my analytical skills to help a data-driven organization make smarter decisions.
+Hello, I'm Alif Pandu Wijaya. My journey into the world of data began with a strong foundation from my Diploma in Management Informatics, where I developed a keen understanding of database structures, information systems, and logical problem-solving.
+
+Today, I am channeling that foundation and my natural curiosity to become a data analyst. I am actively developing a robust skill set in areas including SQL for data querying, Python for data manipulation (with Pandas), and data visualization techniques to tell compelling stories with data. I am excited about the opportunity to apply these skills to transform raw data into actionable insights that drive business decisions.
 
 
 #### 🌐 Socials:
